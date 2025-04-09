@@ -1,6 +1,5 @@
 # Consumer-Price-Index-CPI-Analysis-A-Deep-Dive-into-Inflation-Trends-2013-2023-
 Data analysis project on Consumer Price Index (CPI) trends in India from 2013 to 2023, highlighting inflation patterns across sectors.
-# 📊 Consumer Price Index (CPI) Analysis | India (2013–2023)
 
 ## 🧑‍💼 About
 
@@ -100,20 +99,21 @@ CMR Engineering College, Hyderabad
 
 ## 📜 Certificates
 
-- Google Data Analytics Professional Certificate *(Planned)*  
-- Data Visualization with Python *(Planned)*  
-- SQL for Data Science *(Planned)*
+-  Gold Certification in Advanced Data Science with Python – Nasscom: Demonstrated expertise in data analysis, statistical modeling, and machine learning 
+   techniques.  
+- SQL Advanced Certificate – HackerRank: Validated proficiency in complex SQL queries, database management, and data manipulation.
+- Explore and Analyze Data with Python – Microsoft: Successfully completed a comprehensive course on data exploration, visualization, and analysis using Python.
+- Gold Certification in Python – Innomatics Research Labs: Recognized for strong programming skills, problem-solving abilities, and hands-on coding expertise.
 
 ---
 
 ## 📬 Contact
 
 **Sai Rohit Basantam**  
-📧 Email: sairohitbasantam15@gmail.com  
-📍 Location: Hyderabad, India
+Email: sairohitbasantam15@gmail.com 
 
 ---
 
-## 🔖 Tags  
+##  Tags  
 #DataAnalysis #Python #Pandas #Matplotlib #Seaborn #Statsmodels #EDA #CPI #Inflation #India #Visualization #PortfolioProject
 
